@@ -11,4 +11,4 @@
 *.hcl
 *.tfstate
 *.backup
-/First_Tests/.terraform
+*/.terraform
